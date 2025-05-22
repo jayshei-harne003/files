@@ -1,0 +1,60 @@
+.navbar{
+    background-color: rgb(5, 5, 95);
+}
+.header{
+    background-color: rgb(5, 5, 95);
+}
+.header-text{
+    color: white;
+    font-size: 59px;
+    margin-top: 10rem;
+}
+.text-muted{
+    font-size: 30px;
+}
+.text-secondary{
+    font-size: 30px;
+}
+.icon{
+    font-size: 30px;
+    color: white;
+    margin-left: 10rem;
+    margin-top: -3rem;
+}
+.img{
+    width:9%;
+    margin-left: 7%;
+}
+.img1{
+    width: 9%;
+}
+.container-fluid-page3{
+    background-color: rgb(244, 243, 243);
+}
+.container-fluid-img1{
+    background-image: url("https://bootstrapmade.com/demo/templates/Arsha/assets/img/cta-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 27rem;
+    width: 100%;
+    display: flex;
+}
+
+
+.call{
+    padding: 10%;
+    color: white;
+}
+.navitm{
+    margin-left: 25%;
+    
+}
+.nav-item{
+   margin-left: 5%;
+}
+.navbtn{
+    margin-right: 5%;
+}
+.img2{
+    width: 100%;
+}
