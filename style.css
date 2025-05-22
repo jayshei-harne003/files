@@ -1,0 +1,353 @@
+.page1{
+    background-color: rgb(14, 73, 71);
+    height: 100%;
+    width: 100%;
+}
+.heading1{
+    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    left: 12rem;
+    top: 2rem;
+}
+.head{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: fangsong;
+    position: absolute;
+    top: 13rem;
+    left: 10rem;
+}
+.text{
+    color: white;
+    font-size: 28px;
+    font-family: serif;
+    position: absolute;
+    top: 28rem;
+    left: 10rem;
+}
+.menu{
+    color: white;
+    font-size: 19px;
+    position: absolute;
+    left: 40rem;
+    top: 3rem;
+}
+.button1{
+    background: transparent;
+    border-color: white;
+    color: white;
+    font-size: 17px;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    position: absolute;
+    top: 33rem;
+    left: 10rem;
+}
+.img1{
+    background-image: url(https://www.jesin.com/cdn/shop/files/Design_ohne_Titel-17.jpg?v=1690809639&width=2468);
+    height: 100%;
+    width: 28%; 
+    margin-left: 54rem;
+    margin-top: -37rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img2{
+    background-image: url(https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2023/10/hero-02.jpg);
+    height: 900%;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-left: 47rem;
+    margin-top: -35rem;
+}
+.heading2{
+    color:  rgb(14, 73, 71);
+    font-size: 50px;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: math;
+    position: absolute;
+    top: 50rem;
+    left: 7.5rem;
+}
+.img3{
+    /* background-image: url(https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2023/10/about-01.jpg); */
+     position: absolute;
+     top: 67rem;
+     left: 8rem;
+}
+.img4{
+  position: absolute;  
+  top: 72rem;
+  left: 50rem;
+}
+.text1{
+    font-size: 28px;
+    color:  rgb(14, 73, 71) ;
+    position: absolute;
+    top: 97rem;
+    left: 50rem;
+}
+.text2{
+    font-size: 20px;
+    position: absolute;
+    top: 104rem;
+    left: 50rem;
+}
+.button2{
+    background: transparent;
+    border-color:  rgb(14, 73, 71);
+    color: rgb(14, 73, 71);
+    font-size: 17px;
+    padding-left: 25px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-right: 25px;
+    position: absolute;
+    top: 108rem;
+    left: 50rem;
+}
+.page2{
+    background-color: rgba(212, 209, 209, 0.316);
+    height: 160%;
+    width: 100%;
+    margin-top: -275rem;
+    display: flex;
+}
+.heading3{
+    color: rgb(58, 58, 58);
+    font-size: 45px;
+    margin-left: 10rem;
+    margin-top: 3rem;
+}
+.prg1{
+    font-size: 20px;
+    color: rgb(108, 106, 106);
+    margin-top: 10rem;
+    margin-left: -29rem;
+}
+.img5{
+    position: absolute;
+    top: 120rem;
+    left: 50rem;
+    display: flex;
+}
+.img6{
+    position: absolute;
+    top: 145rem;
+    left: 10rem;
+    display: flex;
+}
+.img7{
+    position: absolute;
+    top: 161rem;
+    left: 50rem;
+    display: flex;
+}
+.white1{
+    background-color: white;
+    height: 18%;
+    width: 33%;
+    display: flex;
+    position: absolute;
+    top: 148rem;
+    left: 51.6rem;
+}
+.rate1{
+    font-size: 20px;
+    position: absolute;
+    top: 152rem;
+    left: 54rem;
+}
+.rate2{
+    font-size: 20px;
+    position: absolute;
+    top: 177.5rem;
+    left: 14rem;
+}
+.rate3{
+    font-size: 20px;
+    position: absolute;
+    top: 194.5rem;
+    left: 54rem;
+}
+.white2{
+    background-color:white;
+    height: 18%;
+    width: 33%;
+    display: flex;
+    position: absolute;
+    top: 173rem;
+    left: 11.5em;
+}
+.white3{
+    background-color: white;
+    height: 18%;
+    width: 33%;
+    display: flex;
+    position: absolute;
+    top: 190rem;
+    left: 51.6rem;
+}
+.heading4{
+    color:  rgb(14, 73, 71);
+    font-size: 50px;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: math;
+    position: absolute;
+    top: 208rem;
+    left: 7rem;
+}
+.img8{
+    margin-top: 25rem;
+    height: 60%;
+}
+.pattern{
+    font-size: 20px;
+    margin-left: 8rem;
+    margin-top: 1rem;
+    color: rgb(81, 81, 81);
+}
+.name{
+    font-size: 30px;
+    margin-left: 8rem;
+    margin-top: 3px;
+    color: rgb(9, 102, 93);
+}
+.star{
+    font-size: 20px;
+    color:rgb(16, 68, 63) ;
+    margin-left: 8rem;
+}
+.price{
+    color: rgb(32, 56, 50);
+    font-size: 22px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 8rem;
+}
+.img9{
+    margin-top: 3rem;
+    height: 60%;
+}
+.page3{
+    background-image: url(https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2023/10/cta-bg.jpg);
+    height: 80%;
+    margin-top: 5rem;
+    /*   */
+}
+.container{
+    background-color: white;
+    height: 50%;
+    width: 50%;
+    position: absolute;
+    top: 300rem;
+    left: 22.5rem;
+}
+.heading5{
+    color:  rgb(14, 73, 71);
+    font-size: 50px;
+    font-size: 42px;
+    font-weight: bold;
+    font-family: math;
+    margin-top: 3rem;
+}
+.text3{
+    font-size: 30px;
+    color:  rgb(9, 88, 85) ;
+    margin-top: 2rem;
+}
+.button3{
+    background: transparent;
+    border-color: rgb(11, 112, 117);
+    color: rgb(5, 99, 96);
+    font-size: 17px;
+    margin-top: 2rem;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+}
+.heading6{
+    color:  rgb(14, 73, 71);
+    font-size: 60px;;
+    font-weight: bold;
+    font-family: math;
+    margin-top: 3rem;
+    margin-left: 10rem;
+}
+.img10{
+    margin-top: 3rem;
+    height: 60%;
+} 
+.page4{
+    background-color: rgb(176, 224, 221);
+    height: 100%;
+    width: 100%;
+    margin-top: 5rem;
+}
+.left{
+    background-color: white;
+    height: 50%;
+    width: 35%;
+    margin-left: 11rem;
+    margin-top: 5rem;
+}
+.star1{
+    color:rgb(246, 204, 14);
+    font-size: 35px;
+    margin-left: 2rem;
+    margin-top: rem;
+}
+.pic1{
+    border-radius: 50%;
+    margin-left: -11.5rem;
+    margin-top: -10rem;
+}
+.right{
+    background-color: white;
+    height: 50%;
+    width: 35%;
+    margin-left: 48rem;
+    margin-top: -21.4rem;
+}
+.img11{
+    margin-top: 5.5rem;
+}
+.green{
+    background-color:rgb(14, 73, 71) ;
+    height: 76.6%;
+    width: 45.5%;
+    position: absolute;
+    top: 420.3rem;
+    left: 50rem;
+}
+.head1{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: fangsong;
+    position: absolute;
+    top: 6rem;
+    left: 2rem;
+}
+.button4{
+    background: transparent;
+    border-color: white;
+    color: white;
+    font-size: 17px;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    position: absolute;
+    top: 23rem;
+    left: 3rem;
+}
+
